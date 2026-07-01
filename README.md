@@ -93,3 +93,46 @@ It:
 ---
 
 ## 🧩 System Architecture
+
+
+---
+
+## 📍 Core Modules
+
+- `/frontend` → Interactive dashboard & India 3D map  
+- `/backend` → API services & data processing  
+- `/ml` (optional) → Prediction models  
+- `/data` → climate datasets integration  
+
+---
+
+## 🌟 Unique Value
+
+Unlike traditional weather apps, **Ambar**:
+
+- Combines AI + satellite intelligence + agriculture data  
+- Builds a **digital twin of India’s climate system**  
+- Focuses on **prediction + impact + action**, not just data  
+- Designed for real-world governance and farming use cases  
+
+---
+
+## 🧪 Future Enhancements
+
+- AI chatbot for climate queries  
+- Voice-based rural accessibility mode  
+- Government disaster alert integration  
+- Real-time IoT sensor integration  
+- Mobile app version  
+
+---
+
+## 🏆 Vision
+
+> To create India's first **AI-powered Climate Brain**, enabling a future where every weather event, crop risk, and disaster can be predicted before it happens.
+
+---
+
+Built with ❤️ by team Bugbite 
+
+
